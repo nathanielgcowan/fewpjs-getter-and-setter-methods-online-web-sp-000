@@ -23,7 +23,7 @@ class Circle {
   }
   //
   set circumference(diameter) {
-    return pi * (this.radius * 2));
+    return pi * (this.radius * 2);
   }
   //
   // set area() {
