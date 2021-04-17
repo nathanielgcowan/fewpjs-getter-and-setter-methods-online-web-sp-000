@@ -19,7 +19,7 @@ class Circle {
   }
 
   set diameter(diameter) {
-    this._diameter = diamter;
+    this.diameter = diamter;
   }
   //
   set circumference(diameter) {
