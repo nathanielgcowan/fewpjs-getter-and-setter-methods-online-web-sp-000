@@ -26,7 +26,7 @@ class Circle {
     return pi * diameter;
   }
   //
-  set area() {
+  // set area() {
   //   // return pi * (this.radius * this.radius)
-  }
+  // }
 }
